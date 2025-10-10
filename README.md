@@ -18,7 +18,7 @@ Polymath / codes / AI / 18
 
 - Dishant-portfolio // just me  
   ↳ [dishant-gotis.vercel.app](https://dishant-gotis.vercel.app)
-  ***
+  ---
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://dishant-gotis.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/psychic_dishant)
