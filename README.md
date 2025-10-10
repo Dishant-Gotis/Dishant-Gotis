@@ -12,7 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Polymath / codes / AI / 18  
 
+🪶  
+
+- Dishant-portfolio // just me  
+  ↳ [dishant-gotis.vercel.app](https://dishant-gotis.vercel.app)
+  ***
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://dishant-gotis.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/psychic_dishant)
@@ -38,9 +44,4 @@ Dishant / README.md
 
 ![banner](https://cdn.cosmos.so/c528fdc2-7fdf-45b1-bdef-7fade6d57184?format=jpeg) -->
 
-Polymath / drones / AI / 18  
 
-🪶  
-
-- Dishant-portfolio // just me  
-  ↳ [dishant-gotis.vercel.app](https://dishant-gotis.vercel.app)
